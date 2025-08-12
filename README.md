@@ -5,6 +5,8 @@ Amaç, kullanıcıya arkadaşça ve destekleyici bir sohbet ortamı sunmaktır.
 
 Not: Bu proje profesyonel psikolojik danışmanlık yerine geçmez, yalnızca destekleyici ve arkadaşça sohbet ortamı sunar.
 
+
+
 Özellikler
 
 -Duyguya göre sohbet
