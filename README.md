@@ -1,4 +1,5 @@
 TalkBuddy – Yapay Zeka Sohbet Arkadaşı
+
 TalkBuddy, insanların kendini yalnız hissetmemesi için geliştirilmiş yapay zeka tabanlı bir sohbet uygulamasıdır.
 Amaç, kullanıcıya arkadaşça ve destekleyici bir sohbet ortamı sunmaktır.
 
