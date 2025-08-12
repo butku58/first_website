@@ -13,7 +13,7 @@ Not: Bu proje profesyonel psikolojik danışmanlık yerine geçmez, yalnızca de
 
 -Basit ve kullanıcı dostu arayüz
 
-<c2>yazın</c>
+<c4>yazın</c>
 Kullanım
 
 -Uygulamayı başlat
